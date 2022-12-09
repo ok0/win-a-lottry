@@ -40,7 +40,7 @@ get_random_numbers()
 }
 
 #
-# are u winning ?
+# do u win ?
 #
 is_win()
 {
